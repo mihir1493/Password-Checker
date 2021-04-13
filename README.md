@@ -10,9 +10,9 @@ This simple python scripts checks your password for security threats using https
 * Returning a string output for multiple password arguments
 
 ## Libraries Used
-* requests
-* hashlib
-* sys
+* [Requests](https://docs.python-requests.org/en/master/)
+* [Hashlib](https://docs.python.org/3/library/hashlib.html)
+* [SYS](https://docs.python.org/3/library/sys.html)
 
 ## Steps
 * Download the Python file
